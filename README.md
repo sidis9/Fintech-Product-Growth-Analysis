@@ -1,4 +1,4 @@
-# Fintech Product Growth Analysis
+# Product Growth Analysis
 
 This project explores how early user activation influences retention and lifetime value.
 
