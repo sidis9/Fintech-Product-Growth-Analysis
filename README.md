@@ -24,3 +24,5 @@ PostgreSQL, Python, Pandas, Matplotlib
 Online Retail II dataset  
 UCI Machine Learning Repository
 https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
+
+This dataset simulated as a fintech user lifecycle to model activation, cohort retention, and LTV.
