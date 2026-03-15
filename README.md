@@ -18,11 +18,10 @@ PostgreSQL, Python, Pandas, Matplotlib
 - case-study.pdf → Full analysis and insights
 - sql_queries.sql → SQL analysis
 - retention_analysis.py → Python analysis
-- charts/ → Visualizations used in the case study
 
 ## Dataset
 Online Retail II dataset  
 UCI Machine Learning Repository
 https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
-This dataset simulated as a fintech user lifecycle to model activation, cohort retention, and LTV.
+Note:This dataset simulated as a fintech user lifecycle to model activation, cohort retention, and LTV.
